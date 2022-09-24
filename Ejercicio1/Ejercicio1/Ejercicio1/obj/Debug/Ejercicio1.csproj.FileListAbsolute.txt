@@ -1,0 +1,15 @@
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Pochocles\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

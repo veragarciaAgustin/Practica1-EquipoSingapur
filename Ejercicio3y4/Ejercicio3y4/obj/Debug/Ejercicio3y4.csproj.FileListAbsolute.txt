@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.exe.config
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.exe
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\bin\Debug\Ejercicio3y4.pdb
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.exe
+C:\Users\Usuario\Desktop\TODO\Clases\Programacion 2\PRACTICA 1\Ejercicio3y4\Ejercicio3y4\obj\Debug\Ejercicio3y4.pdb

@@ -1,0 +1,7 @@
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Otros ordenadores\Mi portátil\Clases\Programacion 2\1. PRACTICA 1\Ejercicio5\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
